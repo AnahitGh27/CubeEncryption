@@ -1,6 +1,5 @@
 import { decrypt } from "./decrypt.js";
 import { encrypt } from "./encrypt.js";
-import { Cube } from "./cube.js";
 import { generateRandomKey } from "./generateKey.js";
 
 
